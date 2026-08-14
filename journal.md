@@ -10,6 +10,7 @@ Lapse block 3- https://lapse.hackclub.com/timelapse/bzj2jMwLS-7o
 Lapse block 4- https://lapse.hackclub.com/timelapse/6fH-dU1CGsFC  
 <img width="285" height="232" alt="image" src="https://github.com/user-attachments/assets/09b9d0d7-c975-4a9a-ba9f-98dd038968d7" />
 # block 5- Frequency Generation, Mixing & IF Detection
+Lapse- https://lapse.hackclub.com/timelapse/uksiBaG2r4nT  
 ps- block almost made me cry because of the complexity so pls ignore the messy diagrams and still images in some parts of the lapse,  
 i had to go through 500 pages of data sheets which i was not able to switch to :)   
 <img width="524" height="344" alt="image" src="https://github.com/user-attachments/assets/8ed2acdf-cf41-4b15-80a0-d072d54b76de" />
