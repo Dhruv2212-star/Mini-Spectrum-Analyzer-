@@ -14,3 +14,14 @@ Lapse- https://lapse.hackclub.com/timelapse/uksiBaG2r4nT
 ps- block almost made me cry because of the complexity so pls ignore the messy diagrams and still images in some parts of the lapse,  
 i had to go through 500 pages of data sheets which i was not able to switch to :)   
 <img width="524" height="344" alt="image" src="https://github.com/user-attachments/assets/8ed2acdf-cf41-4b15-80a0-d072d54b76de" />
+# block 6 MCU, Display & Programming
+Lapse 1- https://lapse.hackclub.com/timelapse/BTViIKsYV-Nq  
+Lapse 2- https://lapse.hackclub.com/timelapse/OMG9x9yIFDE2  
+Lapse 3 (PCB tracings)- https://lapse.hackclub.com/timelapse/cahCFqq3hA76  
+# Block 7 User Interface (Buttons)
+Lapse (schematic)- https://lapse.hackclub.com/timelapse/OVqnNE-gKsbp (13 mins)  
+Lapse (PCB tracing)- https://lapse.hackclub.com/timelapse/pfFoFq8A9Dp2  
+<img width="408" height="485" alt="image" src="https://github.com/user-attachments/assets/6e32f34b-3bc0-4904-a657-66ae1c01e7a0" />
+<img width="658" height="488" alt="image" src="https://github.com/user-attachments/assets/840107b8-5cbb-482c-a6a3-1c7823d77df7" />
+
+
