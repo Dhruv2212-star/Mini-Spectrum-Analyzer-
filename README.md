@@ -1,3 +1,4 @@
+
 **Ai ussage**- used to find correct parts for the build and help choose the correct MCU for this project **only**.  
 
 **Description**- The Mini Spectrum Analyzer is a compact electronic device designed to detect and display radio frequency (RF) signals over a selected frequency range. It uses an ADF4351 frequency synthesizer to generate a programmable local oscillator and an ADL5801 mixer to convert the received RF signal into an intermediate frequency. The AD8313 logarithmic detector measures the signal strength, while the STM32G031K8T6 microcontroller processes the data and displays the spectrum on an SPI TFT display. The device is powered through a USB-C connector and includes onboard power regulation, protection circuitry, user control buttons, status indicators, and test points for easy debugging. Designed as a 4-layer PCB in KiCad 10.0.3, the project demonstrates RF signal processing, mixed-signal circuit design, embedded system development, and PCB layout techniques. It serves as both a practical RF measurement tool and a comprehensive hardware design project suitable for learning and portfolio presentation.
@@ -74,4 +75,6 @@
 | R17 | 10 kΩ       | Pull-up resistor for SW1 input.                          |
 | R18 | 10 kΩ       | Pull-up resistor for SW2 input.                          |
 | R19 | 10 kΩ       | Pull-up resistor for SW3 input.                          |
+<img width="433" height="573" alt="screenshot of PCB" src="https://github.com/user-attachments/assets/864d23e9-2eb7-4606-8995-59e0458ccd69" />
+
 
