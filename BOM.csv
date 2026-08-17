@@ -1,0 +1,55 @@
+Reference,Value,Quantity,Symbol,Footprint
+J1,USB-C Receptacle,1,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12,Connector_USB:USB_C_Receptacle_HRO_TYPE-C-31-M-12
+F1,Polyfuse,1,Device:Polyfuse,Fuse:Fuse_1206_3216Metric
+D1,ESD/TVS,1,Device:D_TVS,Diode_SMD:D_SOD-323
+C1,10uF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+C2,100nF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+U1,3.3V Regulator,1,Regulator_Linear,Package_TO_SOT_SMD:SOT-23-5
+L1,Ferrite Bead,1,Device:L,Inductor_SMD:L_0603_1608Metric
+C3,10uF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+C4,100nF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+C5,100nF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+R6,10Ω,1,Device:R,Resistor_SMD:R_0603_1608Metric
+R7,10Ω,1,Device:R,Resistor_SMD:R_0603_1608Metric
+C6,100pF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+D2,PESD5V0X1UL,1,Device:D,Diode_SMD:D_SOD-882
+U2,AD8313,1,RF:AD8313,Package_TO_SOT_SMD:SOT-363_SC-70-6
+U3,ADF4351,1,Timer_PLL:ADF4351,Package_DFN_QFN:LFCSP-32_5x5mm_P0.5mm
+U4,ADL5801,1,RF_Mixer:ADL5801,Package_DFN_QFN:LFCSP-24_4x4mm_P0.5mm
+Y1,10MHz TCXO,1,Oscillator:TCXO,Oscillator:Oscillator_SMD_2.0x1.6mm
+T1,ADT4-1T+,1,Transformer:ADT4-1T,RF_Mini-Circuits:Mini-Circuits_CD542_H2.84mm
+R11,50Ω,1,Device:R,Resistor_SMD:R_0603_1608Metric
+R12,50Ω,1,Device:R,Resistor_SMD:R_0603_1608Metric
+R13,5.1kΩ,1,Device:R,Resistor_SMD:R_0603_1608Metric
+R14,PLL Filter,1,Device:R,Resistor_SMD:R_0603_1608Metric
+R15,50Ω,1,Device:R,Resistor_SMD:R_0603_1608Metric
+C11,1nF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+C12,1nF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+C13,1nF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+C14,100pF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+C15,100pF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+C16,100nF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+C17,100nF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+C18,100nF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+C19,100nF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+C20,100nF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+C21,100nF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+C22,100nF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+U5,STM32G031K8T6,1,MCU_ST_STM32G0:STM32G031K8Tx,Package_QFP:LQFP-32_7x7mm_P0.8mm
+U6,ST7789 Module,1,Connector_Generic:Conn_01x12,Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical
+J4,SWD Header,1,Connector_Generic:Conn_01x05,Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical
+R16,10kΩ,1,Device:R,Resistor_SMD:R_0603_1608Metric
+C24,100nF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+C25,4.7uF,1,Device:C,Capacitor_SMD:C_0603_1608Metric
+SW1,Tactile Switch,1,Switch:SW_Push,Button_Switch_SMD:SW_SPST_SKQG_WithoutStem
+SW2,Tactile Switch,1,Switch:SW_Push,Button_Switch_SMD:SW_SPST_SKQG_WithoutStem
+SW3,Tactile Switch,1,Switch:SW_Push,Button_Switch_SMD:SW_SPST_SKQG_WithoutStem
+R17,10kΩ,1,Device:R,Resistor_SMD:R_0603_1608Metric
+R18,10kΩ,1,Device:R,Resistor_SMD:R_0603_1608Metric
+R19,10kΩ,1,Device:R,Resistor_SMD:R_0603_1608Metric
+D3,Green LED,1,Device:LED,LED_SMD:LED_0603_1608Metric
+R20,1kΩ,1,Device:R,Resistor_SMD:R_0603_1608Metric
+TP1,+5V,1,Connector:TestPoint,TestPoint:TestPoint_Pad_D1.5mm
+TP2,+3V3,1,Connector:TestPoint,TestPoint:TestPoint_Pad_D1.5mm
+TP3,GND,1,Connector:TestPoint,TestPoint:TestPoint_Pad_D1.5mm
+TP4,RF,1,Connector:TestPoint,TestPoint:TestPoint_Pad_D1.5mm
